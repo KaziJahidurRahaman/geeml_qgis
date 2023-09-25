@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GEE_ML" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
